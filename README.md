@@ -8,6 +8,6 @@ The aim of this project is to conduct a comparative analysis between the local t
 `Excel` is only required for this porject. 
 
 ## contributing
-Please check `Weather analysis word doc`. 
+Please check `Weather_Analysis.docx`. 
 
 The contribution will be in a form of advice and recommendation on the evaluation of the weather analysis overall.
